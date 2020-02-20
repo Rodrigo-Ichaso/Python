@@ -1,2 +1,2 @@
-![](Telegram%20Bot/Images/1.jpg)
+![](Telegram%20Bot/Images/1.png)
 Telegram Bots Examples.
