@@ -1,6 +1,6 @@
 import telebot
 
 tbot = telebot.TeleBot('put in here your telegram token string')
-tbot.send_message(message.chat.id, 'gogo power ranger')
+tbot.send_message(243432536, 'My First Telegram bot message')
 
-# tb.send_message(chatid, message)
+#Comand we use = tbot.send_message(chatid, message)
