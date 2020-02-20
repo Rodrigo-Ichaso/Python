@@ -1,3 +1,3 @@
 # Python
 Python Space!
-![](images/1.jpg)
+![](Images/1.jpg)
