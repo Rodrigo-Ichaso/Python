@@ -6,4 +6,8 @@ import telebot
 TOKEN = '<put in here your telegram token string>'
 tbot = telebot.TeleBot(TOKEN)
 
+#or you can use
+
+tbot = telebot.TeleBot('put in here your telegram token string')
+
 ##for obtain a token, you need to read this link https://core.telegram.org/bots#6-botfather
