@@ -1,6 +1,6 @@
 First go to your telegram account!
 
-![](Telegram%20Bot/Basic/Images/3.png)
+![](Telegram%20Bot/Basic/Images/1.png)
 
 ![](Images/2.png)
 
