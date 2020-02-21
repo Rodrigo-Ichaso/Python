@@ -25,3 +25,4 @@ Source:
 https://core.telegram.org/bots#6-botfather
 
 > *String example of a token
+require "Get a token for your bot"
