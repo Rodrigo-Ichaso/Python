@@ -38,3 +38,4 @@ https://core.telegram.org/bots#6-botfather
 <div class="text-red mb-2">
   .text-red on white
 </div>
+<span style="color:blue">some *This is Blue italic.* text</span>
