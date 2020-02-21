@@ -24,18 +24,5 @@ The token is a string along the lines of 110201543:AAHdqTcvCH1vGWJxfSeofSAs0K5PA
 Source:
 https://core.telegram.org/bots#6-botfather
 
-> * String example of a token
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` ssdgfdgd
+> *String example of a token
 # :godmode:
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
-
-<div class="text-red">
-  .*
-</div>
-</div>
-<div class="text-red mb-2">
-  .text-red on white
-</div>
-<span style="color:blue">some *This is Blue italic.* text</span>
