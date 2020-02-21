@@ -7,7 +7,7 @@ Then Search for botfather.
 ![](Images/3.png)
 ![](Images/2.png)
 
-Press Start to start talking to the BotFather.
+Press /start to start talking to the BotFather.
 
 Creating a new bot!
 
@@ -19,5 +19,5 @@ The Username is a short name, to be used in mentions and t.me links. Usernames a
 
 The token is a string along the lines of 110201543:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw that is required to authorize the bot and send requests to the Bot API. Keep your token secure and store it safely, it can be used by anyone to control your bot.
 
-Source
+Source:
 https://core.telegram.org/bots#6-botfather
