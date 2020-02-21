@@ -24,4 +24,4 @@ The token is a string along the lines of 110201543:AAHdqTcvCH1vGWJxfSeofSAs0K5PA
 Source:
 https://core.telegram.org/bots#6-botfather
 
-*String example of a token
+> *String example of a token
