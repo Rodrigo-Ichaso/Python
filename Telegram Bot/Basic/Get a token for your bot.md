@@ -1,3 +1,5 @@
+#1.- Get a token for your bot
+
 First go to your telegram account!
 
 ![](Images/1.png)
