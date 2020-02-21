@@ -1,4 +1,4 @@
-#1.- Get a token for your bot
+# 1.- Get a token for your bot
 
 First go to your telegram account!
 
