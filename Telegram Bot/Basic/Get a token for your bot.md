@@ -25,4 +25,5 @@ Source:
 https://core.telegram.org/bots#6-botfather
 
 > * String example of a token
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` ssdgfdgd
 # :godmode:
