@@ -1,3 +1,2 @@
 # Introduction...
-1.- https://github.com/Rodrigo-Ichaso/Python/blob/master/Telegram%20Bot/Basic/Get%20a%20token%20for%20your%20bot.md
-2.- [aquisitos](Get%20a%20token%20for%20your%20bot.md)
+## 1.- [Get a token for your bot](Get%20a%20token%20for%20your%20bot.md)
