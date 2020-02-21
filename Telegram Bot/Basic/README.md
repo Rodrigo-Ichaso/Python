@@ -1,2 +1,2 @@
 # Introduction...
-## 1.- [Get a token for your bot](Get%20a%20token%20for%20your%20bot.md)
+## 1.- [Get a token for your bot](1.-%20Get%20a%20token%20for%20your%20bot.md)
