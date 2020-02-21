@@ -34,3 +34,7 @@ https://core.telegram.org/bots#6-botfather
 <div class="text-red">
   .*
 </div>
+</div>
+<div class="text-red mb-2">
+  .text-red on white
+</div>
