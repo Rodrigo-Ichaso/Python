@@ -30,3 +30,7 @@ https://core.telegram.org/bots#6-botfather
 <div class="text-blue mb-2">
   .text-blue on white
 </div>
+
+<div class="text-red mb-2">
+  *
+</div>
