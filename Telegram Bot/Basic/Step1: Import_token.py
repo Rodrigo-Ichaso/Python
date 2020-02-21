@@ -1,5 +1,6 @@
 #For this case i will going to use the pip method
-#pip install pyTelegramBotAPI form this lib https://pypi.org/project/pyTelegramBotAPI/0.3.0/
+#pip install pyTelegramBotAPI 
+#from this lib https://pypi.org/project/pyTelegramBotAPI/0.3.0/
 
 import telebot
 
