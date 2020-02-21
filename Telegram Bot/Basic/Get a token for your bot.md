@@ -32,5 +32,5 @@ https://core.telegram.org/bots#6-botfather
 </div>
 
 <div class="text-red mb-2">
-  *
+  .*
 </div>
